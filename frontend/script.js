@@ -1,4 +1,5 @@
-const API_URL = '/api/feedback';
+const API_URL = '/api/feedback'; // for vercel
+// const API_URL = 'http://localhost:5000/api/feedback'; // for local
 
 console.log('=== DEBUG INFO ===');
 console.log('API URL:', API_URL);
