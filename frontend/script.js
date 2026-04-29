@@ -1,5 +1,4 @@
-// HARDCODE the backend URL - DON'T use window.location
-const API_URL = 'http://localhost:5000/api/feedback';
+const API_URL = '/api/feedback';
 
 console.log('=== DEBUG INFO ===');
 console.log('API URL:', API_URL);
